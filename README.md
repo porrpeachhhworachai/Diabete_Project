@@ -1,4 +1,4 @@
-## Diabetes Prediction Analysis (Final Project)
+## Diabetes Prediction Analysis (Project)
 (Models Used : RandomForestClassifier , LightGBM)
 
 This project performs Exploratory Data Analysis (EDA) on a medical dataset to identify key factors contributing to diabetes.
